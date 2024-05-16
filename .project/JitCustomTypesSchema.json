@@ -1,0 +1,123 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "ReadRangeConnections`1_1",
+        "hash": "ReadRangeConnections`1_1|DataTable|2iu3ZIbplvmhfK4Novh4p78UVYD3cLJngXrlmhkd3A",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Numero de Cedula",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "ReadRangeConnections`1_1|DataTable|JsuVjLr4w2NFzHy4BOZFjz5DGGjpOBYeiR8LsZRKY",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 2,
+        "idRef": "ReadRangeConnections`1_1",
+        "hash": "ReadRangeConnections`1_1|DataTable|3bhOh6iDUs6POVNIq0UuHGLHbpCXck0hPfJi42pflg",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Numero_Cedula",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable2",
+        "hash": "ReadRangeConnections`1_1|DataTable|dXMPYEUFqmmxGXYW1BwHQh3d91S4YmIQQRmQW53VFs",
+        "assemblyName": "Studio.Generated.TypedDataTable2"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 3,
+        "idRef": "ReadRangeConnections`1_1",
+        "hash": "ReadRangeConnections`1_1|DataTable|HcIbKGDiMkJA9OwTppPb7sRZ8O6ggnwtG27s5PQMs",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Numero_Cedula",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Nombres",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Apellidos",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable3",
+        "hash": "ReadRangeConnections`1_1|DataTable|JCpmbWDDkWlOh9huk0sYcQTttoONPDzFdMObHlfDz5M",
+        "assemblyName": "Studio.Generated.TypedDataTable3"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 4,
+        "idRef": "ReadRangeConnections`1_2",
+        "hash": "ReadRangeConnections`1_2|DataTable|MNM8WGiymWMLFSD9aM289smZVtFPdwWR2nI3kXLzYE",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "#REF!",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable4",
+        "hash": "ReadRangeConnections`1_2|DataTable|yJJZqHYZHQ7zLmfKWSVMUmcLa0vTyIhDtkAS5EiBb4I",
+        "assemblyName": "Studio.Generated.TypedDataTable4"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 5,
+        "idRef": "ReadRangeConnections`1_2",
+        "hash": "ReadRangeConnections`1_2|DataTable|HcIbKGDiMkJA9OwTppPb7sRZ8O6ggnwtG27s5PQMs",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Numero_Cedula",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Nombres",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Apellidos",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable5",
+        "hash": "ReadRangeConnections`1_2|DataTable|JCpmbWDDkWlOh9huk0sYcQTttoONPDzFdMObHlfDz5M",
+        "assemblyName": "Studio.Generated.TypedDataTable5"
+      }
+    }
+  ]
+}
